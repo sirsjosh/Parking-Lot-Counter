@@ -13,10 +13,6 @@ This project is a Parking Lot Recognition System implemented in Python using Ope
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
