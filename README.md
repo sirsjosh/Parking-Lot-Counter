@@ -1,5 +1,7 @@
 # Parking Lot Recognition System
 
+![Alt Text](url)
+
 ## Overview
 
 This project is a Parking Lot Recognition System implemented in Python using OpenCV and machine learning techniques. The system processes video footage from a parking lot, identifies parking spots, and determines whether they are occupied or vacant.
