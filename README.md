@@ -1,6 +1,6 @@
 # Parking Lot Recognition System
 
-![Alt Text](url)
+![Alt Text](https://github.com/sirsjosh/Parking-Lot-Counter/blob/main/cover.jpg)
 
 ## Overview
 
