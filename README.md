@@ -13,6 +13,7 @@ This project is a Parking Lot Recognition System implemented in Python using Ope
 ## Table of Contents
 
 - [Installation](#installation)
+- [Data](#data)
 
 ## Installation
 
@@ -20,3 +21,7 @@ This project is a Parking Lot Recognition System implemented in Python using Ope
 
    ```bash
    git clone https://github.com/your-username/parking-lot-recognition.git
+
+## Data
+ ```bash
+  https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC?usp=drive_link
