@@ -1,9 +1,22 @@
-# parking-space-counter
+# Parking Lot Recognition System
 
-In this video I show you how to build a parking space detector and counter with computer vision !
+## Overview
 
-[![Watch the video](https://img.youtube.com/vi/F-884J2mnOY/0.jpg)](https://www.youtube.com/watch?v=F-884J2mnOY)
+This project is a Parking Lot Recognition System implemented in Python using OpenCV and machine learning techniques. The system processes video footage from a parking lot, identifies parking spots, and determines whether they are occupied or vacant.
 
-## data
+## Features
 
-You can download the data and model I used in this tutorial [here](https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC?usp=sharing).
+- Detection of parking spots in a given video frame.
+- Real-time status updates on each parking spot (Occupied or Vacant).
+- Utilizes a machine learning model to predict parking spot occupancy.
+
+## Table of Contents
+
+- [Installation](#installation)
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/parking-lot-recognition.git
