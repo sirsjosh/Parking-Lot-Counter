@@ -25,4 +25,4 @@ This project is a Parking Lot Recognition System implemented in Python using Ope
    git clone https://github.com/your-username/parking-lot-recognition.git
 
 ## Data
- download the data ![here](https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC?usp=drive_link)
+ download the data [here](https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC?usp=drive_link)
